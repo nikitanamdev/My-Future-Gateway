@@ -1,0 +1,48 @@
+#l1{
+    background-color: black;
+    background-image: url("fbg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*color: white;*/
+}
+#level1{
+    margin-left: 450px;
+    font-size: 100px;
+    color: white;
+    font-style: italic;
+    font-family: "Cooper Black";
+}
+#num{
+    font-size: xx-large;
+    border-color: blue;
+    border-style: groove;
+    border-width: 2.5px;
+    border-radius: 5px;
+
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 2px;
+    padding-top: 2px;
+
+    font-size: 50px;
+    color: blue;
+    font-family: "Castellar";
+}
+
+
+#lvlButton{
+    margin-left: 540px;
+    background: white;
+    color: steelblue;
+    font-size: large;
+    border-radius: 7px;
+    border: solid;
+
+    font-family: "Comic Sans MS";
+    border-color: steelblue;
+    cursor: pointer;
+}
+#lvlButton:active{
+    background: steelblue;
+    color: white;
+}
